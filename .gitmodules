@@ -1,0 +1,3 @@
+[submodule "stickhero"]
+	path = stickhero
+	url = https://github.com/KerimCan05/stickhero.git
